@@ -316,7 +316,7 @@ $$
 
 $$
 \langle \mathbf{x} ; \mathbf{y}\rangle 
-= \frac{1}{4} \left(\|\mathbf{x} - \mathbf{y}\|^2 - \|\mathbf{x} - \mathbf{y}\|^2 \right)
+= \frac{1}{4} \left(\|\mathbf{x} + \mathbf{y}\|^2 - \|\mathbf{x} - \mathbf{y}\|^2 \right)
 $$
 
 $$
