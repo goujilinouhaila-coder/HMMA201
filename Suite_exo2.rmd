@@ -92,4 +92,4 @@ Var(\hat{\beta})=\frac{\sigma^{2}}{\sum_{i=1}^{n}x_{i}^2}=\frac{\sigma^2}{nx^2}
 $$
 D'où: $Var(\hat{\beta})=Var(\tilde{\beta})$. 
 
-On en déduit donc que sous l'hypothèse d'égalité des $x_{i}$; on a $Var(\hat{\beta})=Var(\tilde{\beta})$. 
+On en déduit donc que sous l'hypothèse d'égalité des $x_{i}$; on a $Var(\hat{\beta})=Var(\tilde{\beta})$
